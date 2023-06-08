@@ -3,3 +3,5 @@ Hello, Tina!
 Hello, Simon!
 Hello, GitHub!
 Hello, World!
+
+Remove"Hello, World!"
